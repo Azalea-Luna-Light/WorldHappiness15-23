@@ -5,8 +5,11 @@ Exploratory Analysis of the happiness Data from the Gallup World Poll 2015-2023.
 Each year, the Gallup World Poll surveys adult citizens in nearly 160 countries and consists of over 100 global 
 and region-specific questions to calculat the Happiness score of each country. A lot has changed globally since 2020 and 
 led to a lot of uncertainty. 
-Therefore we analysis the data to find out if the happiness score has changed between 2015 and 2023 and
-if citizens are still the  happiest countries to live in 2023. 
+
+The aim of the project is to show how the Happiness Score has developed and changed globally between 2015 and 2023. 
+It will show which countries have the highest happiness score, which have the lowest, and whether the same countries hold
+the same positions over the entire time period, as well as which specific factors determine the level of 
+the happiness score.   
 
 # The dataset comprises information on the following parameters:
 
